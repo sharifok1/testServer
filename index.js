@@ -37,7 +37,7 @@ async function run() {
 
 
 app.get ('/', (req,res)=>{
-    res.send('tara hola tara hora');
+    res.send('tara hola tara hora koris na');
 })
 
 app.listen(port,()=>{
